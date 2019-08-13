@@ -6,7 +6,7 @@
 | Materia: | TECNOLOGIAS EMERGENTES II | 
 | Apellidos y nombres: | RODRIGO LECOÑA QUISPE |  
 | C.I: | 10028685 L.P. | 
-| Lugar y fecha: | EL ALTO 6 DE AGOSTO |   
+| Lugar y fecha: | EL ALTO 13 DE AGOSTO |   
 
 
 ### 1) 	Explique que son los sistemas empresariales ###
